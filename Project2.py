@@ -3,6 +3,8 @@ import numpy as np
 import itertools
 from collections import defaultdict
 
+#WRITTEN BY ZACHARY HINNEN
+
 class GraphTraversal:
     def __init__(self): # default dictionary to store graph
         self.graph = defaultdict(list)
